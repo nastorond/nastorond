@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastorond&layout=compact&theme=dark)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
