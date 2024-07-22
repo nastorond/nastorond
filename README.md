@@ -9,3 +9,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastorond&layout=compact&theme=dark)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+[portfolio](https://chagokchagokhw.notion.site/8ac5ce9ab8684f7c8d3e3582cd8ba565?pvs=74)
