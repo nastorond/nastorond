@@ -10,4 +10,4 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-[portfolio](https://chagokchagokhw.notion.site/8ac5ce9ab8684f7c8d3e3582cd8ba565?pvs=74](https://chagokchagokhw.notion.site/71c1a68cb3c54caa8a6d89ac55ebd23e?pvs=4))
+[portfolio](https://chagokchagokhw.notion.site/71c1a68cb3c54caa8a6d89ac55ebd23e)
